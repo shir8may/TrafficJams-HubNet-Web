@@ -41,12 +41,11 @@ By experimenting with the simulation, participants gain a deeper understanding o
 First, download the file named "TrafficJams_HubNet_Web.hnw.json" :
 1. Click on the file name –"TrafficJams_HubNet_Web.hnw.json"
 2. On the right side of the screen, click on the next icon (when you hover it – you will see "Download raw file")
-   
 <br>
 <img width="70" height="77" alt="download" src="https://github.com/user-attachments/assets/ecccc5ca-8e52-45a9-ab0d-6a6dc991a867" />
 <br>
    
-4. Pay attention to where you save the file
+3. Pay attention to where you save the file
 
 
 ## How to open the simulation
@@ -58,11 +57,9 @@ After downloading, follow these instructions:
 - In the "Session Name" field, write your school name + date, as follows: SchoolName 8.8.25
 - In the "Password" field, choose a password of your choice, such as 1234 or 0000, etc.  
 
-
+<br>
 <img width="1271" height="579" alt="Screenshot1" src="https://github.com/user-attachments/assets/5a76a0c9-0f5c-403f-9eac-f2fec48b8cc5" />  
-
-
-
+<br>
 
 5. Click the blue button - "Launch"
 At this point, the following screen will open -  
