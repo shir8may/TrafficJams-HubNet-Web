@@ -32,7 +32,7 @@ By experimenting with the simulation, participants gain a deeper understanding o
 
 
 ##  How to operate it
-#### Instructions for the teacher-
+#### **Instructions for the teacher-**
 First, download the file named "TrafficJams_HubNet_Web.hnw.json" :
 1. Click on the file name –"TrafficJams_HubNet_Web.hnw.json"
 2. On the right side of the screen, click on the icon ***this*** (when you hover over it – you will see  "Download raw file")
@@ -64,7 +64,7 @@ At this point, the following screen will open -
 
 
 ### To setup and start the simulation:
-#### Instructions for the teacher-
+#### **Instructions for the teacher-**
 1. Click the blue button on the top left called "Copy invite link"  (after you click on it, the caption will change to "Copied!") -   
 
 
@@ -130,7 +130,7 @@ And the number of students who participated in the simulation
 
 
 
-#### Instructions for the student-
+#### **Instructions for the student-**
 
 1. Open a Google Chrome or Google Edge or any other browser tab and copy the link that the teacher sent. A page will open with this small window - Click ""ביטול  
 
