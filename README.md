@@ -61,7 +61,7 @@ After downloading, follow these instructions:
 <br>
 
 
-5. Click the blue button - "Launch"
+5. Click the blue button - "Launch"  
 At this point, the following screen will open -  
 
 
