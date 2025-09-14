@@ -66,7 +66,7 @@ At this point, the following screen will open -
 
 
 
-
+<br>
 <img width="1268" height="578" alt="Screenshot2" src="https://github.com/user-attachments/assets/fa5635df-883f-45b3-96bb-be952b09442a" />  
 
 
@@ -77,7 +77,7 @@ At this point, the following screen will open -
 1. Click the blue button on the top left called "Copy invite link"  (after you click on it, the caption will change to "Copied!") -   
 
 
-
+<br>
 <img width="1270" height="573" alt="Screenshot3" src="https://github.com/user-attachments/assets/73666da7-5aa4-4db1-adda-4937ed5a62af" />  
 
 
@@ -93,7 +93,7 @@ At this point, the following screen will open -
 
 4. Click the upper "Setup" blue button ( the one inside the red rectangle), and the screen will now look like this-  
 
-
+<br>
 <img width="1551" height="707" alt="Screenshot4" src="https://github.com/user-attachments/assets/71c6e4cb-6c2b-41bf-b620-b4e7f4b4aec1" />  
 
 
@@ -103,7 +103,7 @@ At this point, the following screen will open -
 
 5. After all the students have joined -> click the "Go" button, and the simulation will start running -  
 
-
+<br>
 <img width="208" height="106" alt="Screenshot5" src="https://github.com/user-attachments/assets/f9fddd5a-acba-4f29-af57-ec01ffe1a08f" />  
 
 
@@ -116,7 +116,7 @@ At this point, the following screen will open -
 - Click on "Save Init CSV" 
 - Click on "Save Run CSV"  
 
-
+<br>
 <img width="986" height="486" alt="Screenshot6" src="https://github.com/user-attachments/assets/b31d0e22-cc4e-4f85-9a09-b170ec1f6e4b" />  
   
 
@@ -147,7 +147,7 @@ And the number of students who participated in the simulation
 1. Open a Google Chrome or Google Edge or any other browser tab and copy the link that the teacher sent. A page will open with this small window - Click ""ביטול  
 
    
-
+<br>
 <img width="575" height="261" alt="Screenshot7" src="https://github.com/user-attachments/assets/d0b2bbdf-0f4b-4210-8db0-29e35b205ea8" />  
 
 
@@ -167,7 +167,7 @@ And the number of students who participated in the simulation
 
 4. Fill in the "Username" field with your name + fill in the "Password" field with the password that the teacher set + select the "Student" option in "Role", as follows-  
 
-
+<br>
 <img width="1327" height="232" alt="Screenshot9" src="https://github.com/user-attachments/assets/a1ad54d4-3794-4176-9ca7-f45683fa8aa7" />  
 
 
@@ -176,7 +176,7 @@ And the number of students who participated in the simulation
 
 
 5. Click on the green button - "Join", then the following screen will appear-  
-
+<br>
 <img width="1270" height="587" alt="Screenshot10" src="https://github.com/user-attachments/assets/30405d9f-c0dc-47bf-846c-0f6d193fdf4e" />  
 
 
