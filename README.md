@@ -164,7 +164,7 @@ And the number of students who participated in the simulation
 2. Now the screen you will see is this-  
 
 <br>
-<img width="1917" height="927" alt="Screenshot8" src="https://github.com/user-attachments/assets/481894ea-2a47-4b3b-bb88-89e33e2cd829" />
+<img width="1916" height="871" alt="Screenshot8" src="https://github.com/user-attachments/assets/14baff4a-0641-4e3c-afff-0b5bb7d733df" />
 <br>
 <br>
 
