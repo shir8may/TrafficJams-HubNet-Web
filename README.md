@@ -42,8 +42,9 @@ First, download the file named "TrafficJams_HubNet_Web.hnw.json" :
 1. Click on the file name –"TrafficJams_HubNet_Web.hnw.json"
 2. On the right side of the screen, click on the next icon (when you hover it – you will see "Download raw file")
    
-   <img width="70" height="77" alt="download" src="https://github.com/user-attachments/assets/ecccc5ca-8e52-45a9-ab0d-6a6dc991a867" />
-
+<br>
+<img width="70" height="77" alt="download" src="https://github.com/user-attachments/assets/ecccc5ca-8e52-45a9-ab0d-6a6dc991a867" />
+<br>
    
 4. Pay attention to where you save the file
 
