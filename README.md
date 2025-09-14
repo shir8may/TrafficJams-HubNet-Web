@@ -40,7 +40,8 @@ By experimenting with the simulation, participants gain a deeper understanding o
 
 First, download the file named "TrafficJams_HubNet_Web.hnw.json" :
 1. Click on the file name –"TrafficJams_HubNet_Web.hnw.json"
-2. On the right side of the screen, click on the icon ***this*** (when you hover over it – you will see  "Download raw file")
+2. On the right side of the screen, click on the icon <img width="70" height="77" alt="download" src="https://github.com/user-attachments/assets/ecccc5ca-8e52-45a9-ab0d-6a6dc991a867" />
+ (when you hover over it – you will see  "Download raw file")
 3. Pay attention to where you save the file
 
 
