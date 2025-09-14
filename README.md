@@ -5,9 +5,13 @@
 This project is designed to help people explore and understand how individual driving behaviors affect overall traffic flow. This document provides a clear overview: it explains the purpose of the simulation, who it is intended for, who participates in it, how long it typically lasts, how to operate it, and how it can contribute to our daily lives. Using the results and data obtained from the simulation, participants and educators can draw meaningful conclusions and lessons that impact real-world driving habits and help us all drive more safely and efficiently.
 
 •	 The purpose of the simulation  
-•	 Technical information  
-•	 How to operate it  
+•	 Technical information   
 •	 How it contributes to our daily lives
+•	 How to Download the runing file
+•	 How to run the simulation
+•	 How to open the simulation
+•	 How to open the simulation
+•	 How to setup and start the simulation
 
 ##  Purpose of the Simulation  
 The purpose of the simulation is to teach safe and efficient driving strategies in an engaging, experiential way, while highlighting the social importance of rational driving in reducing congestion, pollution, and frustration.
@@ -31,13 +35,17 @@ Through hands-on play and discussion, participants discover important insights:
 By experimenting with the simulation, participants gain a deeper understanding of how their personal driving choices influence overall traffic conditions. The activity shows that sudden braking, unnecessary lane changes, or inconsistent speeds can create “phantom” traffic jams that ripple backward and slow everyone down. In contrast, driving steadily, keeping a safe distance, and maintaining rational speed reduces congestion, prevents accidents, and allows traffic to flow more smoothly. These lessons go beyond the classroom: they help us realize that safe and considerate driving is not only good for individual safety, but also improves the collective experience on the road, saving time, lowering frustration, and even reducing pollution.
 
 
-##  How to operate it
-#### **Instructions for the teacher-**
+##  How to Download the runing file
+#### **Instructions for the teacher-** with
+#### Instructions for the teacher- without
+
 First, download the file named "TrafficJams_HubNet_Web.hnw.json" :
 1. Click on the file name –"TrafficJams_HubNet_Web.hnw.json"
 2. On the right side of the screen, click on the icon ***this*** (when you hover over it – you will see  "Download raw file")
 3. Pay attention to where you save the file
 
+
+## How to open the simulation
 After downloading, follow these instructions:
 1. Open the following link - https://hubnetweb.org/host 
 2. Click on "Your Own Model" button and then on "יש לבחור קבצים"
@@ -63,8 +71,8 @@ At this point, the following screen will open -
 
 
 
-### To setup and start the simulation:
-#### **Instructions for the teacher-**
+## How to setup and start the simulation:
+#### Instructions for the teacher-
 1. Click the blue button on the top left called "Copy invite link"  (after you click on it, the caption will change to "Copied!") -   
 
 
