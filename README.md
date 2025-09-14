@@ -27,6 +27,6 @@ Through hands-on play and discussion, participants discover important insights:
 ##  Duration of the activity
 
 ##  How to operate it
-
+open - https://hubnetweb.org/host 
 ##  How it contributes to our daily lives
 
