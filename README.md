@@ -7,11 +7,11 @@ This project is designed to help people explore and understand how individual dr
 •	 The purpose of the simulation  
 •	 Technical information   
 •	 How it contributes to our daily lives
-•	 How to Download the runing file
-•	 How to run the simulation
-•	 How to open the simulation
-•	 How to open the simulation
-•	 How to setup and start the simulation
+•	 How to Download the runing file  
+•	 How to run the simulation  
+•	 How to open the simulation  
+•	 How to open the simulation  
+•	 How to setup and start the simulation  
 
 ##  Purpose of the Simulation  
 The purpose of the simulation is to teach safe and efficient driving strategies in an engaging, experiential way, while highlighting the social importance of rational driving in reducing congestion, pollution, and frustration.
@@ -36,8 +36,7 @@ By experimenting with the simulation, participants gain a deeper understanding o
 
 
 ##  How to Download the runing file
-#### **Instructions for the teacher-** with
-#### Instructions for the teacher- without
+#### Instructions for the teacher-  
 
 First, download the file named "TrafficJams_HubNet_Web.hnw.json" :
 1. Click on the file name –"TrafficJams_HubNet_Web.hnw.json"
