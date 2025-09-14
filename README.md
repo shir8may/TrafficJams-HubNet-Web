@@ -11,7 +11,7 @@ This project is designed to help people explore and understand how individual dr
 •	 How to run the simulation  
 •	 How to open the simulation  
 •	 How to open the simulation  
-•	 How to setup and start the simulation  
+##	 How to setup and start the simulation  
 
 ##  Purpose of the Simulation  
 The purpose of the simulation is to teach safe and efficient driving strategies in an engaging, experiential way, while highlighting the social importance of rational driving in reducing congestion, pollution, and frustration.
