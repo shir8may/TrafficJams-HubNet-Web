@@ -59,7 +59,9 @@ After downloading, follow these instructions:
 
 <br>
 <img width="1271" height="579" alt="Screenshot1" src="https://github.com/user-attachments/assets/5a76a0c9-0f5c-403f-9eac-f2fec48b8cc5" />  
-<br>
+<br>  
+
+
 
 5. Click the blue button - "Launch"
 At this point, the following screen will open -  
