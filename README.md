@@ -68,7 +68,7 @@ At this point, the following screen will open -
 
 <br>
 <img width="1268" height="578" alt="Screenshot2" src="https://github.com/user-attachments/assets/fa5635df-883f-45b3-96bb-be952b09442a" />  
-
+<br>
 
 
 
@@ -79,7 +79,8 @@ At this point, the following screen will open -
 
 <br>
 <img width="1270" height="573" alt="Screenshot3" src="https://github.com/user-attachments/assets/73666da7-5aa4-4db1-adda-4937ed5a62af" />  
-
+<br>
+<br>
 
 
 
@@ -95,7 +96,7 @@ At this point, the following screen will open -
 
 <br>
 <img width="1551" height="707" alt="Screenshot4" src="https://github.com/user-attachments/assets/71c6e4cb-6c2b-41bf-b620-b4e7f4b4aec1" />  
-
+<br>
 
 
 
@@ -105,7 +106,7 @@ At this point, the following screen will open -
 
 <br>
 <img width="208" height="106" alt="Screenshot5" src="https://github.com/user-attachments/assets/f9fddd5a-acba-4f29-af57-ec01ffe1a08f" />  
-
+<br>
 
 
 
@@ -118,7 +119,7 @@ At this point, the following screen will open -
 
 <br>
 <img width="986" height="486" alt="Screenshot6" src="https://github.com/user-attachments/assets/b31d0e22-cc4e-4f85-9a09-b170ec1f6e4b" />  
-  
+<br>
 
 
 
@@ -149,7 +150,7 @@ And the number of students who participated in the simulation
    
 <br>
 <img width="575" height="261" alt="Screenshot7" src="https://github.com/user-attachments/assets/d0b2bbdf-0f4b-4210-8db0-29e35b205ea8" />  
-
+<br>
 
 
 
@@ -159,7 +160,7 @@ And the number of students who participated in the simulation
 
 <br>
 <img width="1916" height="873" alt="image" src="https://github.com/user-attachments/assets/1d0e2943-945a-4fbe-bc86-dc56b80f57d0" />
-
+<br>
 
 
 
@@ -169,7 +170,7 @@ And the number of students who participated in the simulation
 
 <br>
 <img width="1327" height="232" alt="Screenshot9" src="https://github.com/user-attachments/assets/a1ad54d4-3794-4176-9ca7-f45683fa8aa7" />  
-
+<br>
 
 
 
@@ -178,7 +179,7 @@ And the number of students who participated in the simulation
 5. Click on the green button - "Join", then the following screen will appear-  
 <br>
 <img width="1270" height="587" alt="Screenshot10" src="https://github.com/user-attachments/assets/30405d9f-c0dc-47bf-846c-0f6d193fdf4e" />  
-
+<br>
 
 
 
