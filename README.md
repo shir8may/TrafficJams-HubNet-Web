@@ -117,7 +117,7 @@ At this point, the following screen will open -
    
 7. In order to save and download the data files saved during the simulation click on the two buttons on the bottom left -  
 - Click on "Save Init CSV" 
-- Click on "Save Run CSV"
+- Click on "Save Run CSV"  
 These files will be automatically saved in the "Downloads" folder of the computer.  
   
 
@@ -139,13 +139,15 @@ School name
 Date  
 Teacher's full name  
 And the number of students who participated in the simulation  
-*Student's experience  
+*Student's experience    
 
 
 
 
 
 
+
+<br>
 #### **Instructions for the student-**
 
 1. Open a Google Chrome or Google Edge or any other browser tab and copy the link that the teacher sent. A page will open with this small window - Click ""ביטול  
@@ -182,6 +184,7 @@ And the number of students who participated in the simulation
 5. Click on the green button - "Join", then the following screen will appear-  
 <br>
 <img width="1270" height="587" alt="Screenshot10" src="https://github.com/user-attachments/assets/30405d9f-c0dc-47bf-846c-0f6d193fdf4e" />  
+<br>
 <br>
 <br>
 <br>
