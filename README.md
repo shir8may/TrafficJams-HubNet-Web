@@ -3,8 +3,10 @@ NetLogo/HubNet simulation for participatory learning about traffic jams, convert
 
 
 ##  Speeding up Traffic Jams: A Participatory Simulation for Learning how to Drive in Congested Conditions
-This project is designed to help people explore and understand how individual driving behaviors affect overall traffic flow. This document provides a clear overview: it explains the purpose of the simulation, who it is intended for, who participates in it, how long it typically lasts, how to operate it, and how it can contribute to our daily lives. Using the results and data obtained from the simulation, participants and educators can draw meaningful conclusions and lessons that impact real-world driving habits and help us all drive more safely and efficiently.
+This project is designed to help people explore and understand how individual driving behaviors affect overall traffic flow. This document provides a clear overview: it explains the purpose of the simulation, who it is intended for, who participates in it, how long it typically lasts, how to operate it, and how it can contribute to our daily lives. Using the results and data obtained from the simulation, participants and educators can draw meaningful conclusions and lessons that impact real-world driving habits and help us all drive more safely and efficiently.  
 
+
+##  Table of Contents
 - [The purpose of the simulation](#the-purpose-of-the-simulation)    
 - [Technical information](#technical-information)    
 - [How it contributes to our daily lives](#how-it-contributes-to-our-daily-lives)    
@@ -12,28 +14,6 @@ This project is designed to help people explore and understand how individual dr
 - [How to run the simulation](#how-to-run-the-simulation)    
 - [How to open the simulation](#how-to-open-the-simulation)    
 - [How to setup and start the simulation](#how-to-setup-and-start-the-simulation)    
-
-
-
-333333333333333333333333333333333333333333333333333333333333333333
-# TrafficJams-HubNet-Web
-
-## Speeding up Traffic Jams: A Participatory Simulation for Learning how to Drive in Congested Conditions
-This project is designed to help people explore and understand how individual driving behaviors affect overall traffic flow. This document provides a clear overview: it explains the purpose of the simulation, who it is intended for, who participates in it, how long it typically lasts, how to operate it, and how it can contribute to our daily lives. Using the results and data obtained from the simulation, participants and educators can draw meaningful conclusions and lessons that impact real-world driving habits and help us all drive more safely and efficiently.
-
----
-
-## 📑 Table of Contents
-- [The purpose of the simulation](#the-purpose-of-the-simulation)  
-- [Technical information](#technical-information)  
-- [How it contributes to our daily lives](#how-it-contributes-to-our-daily-lives)  
-- [How to Download the running file](#how-to-download-the-running-file)  
-- [How to run the simulation](#how-to-run-the-simulation)  
-- [How to open the simulation](#how-to-open-the-simulation)  
-- [How to setup and start the simulation](#how-to-setup-and-start-the-simulation)  
-
-
-333333333333333333333333333333333333333333333333
 
 
 
