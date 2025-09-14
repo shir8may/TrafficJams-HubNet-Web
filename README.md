@@ -40,11 +40,9 @@ By experimenting with the simulation, participants gain a deeper understanding o
 
 First, download the file named "TrafficJams_HubNet_Web.hnw.json" :
 1. Click on the file name –"TrafficJams_HubNet_Web.hnw.json"
-2. On the right side of the screen, click on the next icon (when you hover it – you will see "Download raw file")
-<br>
+2. On the right side of the screen, click on the next icon (when you hover it – you will see "Download raw file")  <br>
 <img width="70" height="77" alt="download" src="https://github.com/user-attachments/assets/ecccc5ca-8e52-45a9-ab0d-6a6dc991a867" />
 <br>
-   
 3. Pay attention to where you save the file
 
 
@@ -114,7 +112,9 @@ At this point, the following screen will open -
 
 
 6. To end the simulation, click the same "Go"  button again -> which will cause the screen to stop and the simulation to end.
-7. In order to save and download the data files saved during the simulation click on the two buttons on the bottom left - 1. Click on "Save Init CSV" 2. Click on "Save Run CSV"-  
+7. In order to save and download the data files saved during the simulation click on the two buttons on the bottom left -  
+- Click on "Save Init CSV" 
+- Click on "Save Run CSV"  
 
 
 <img width="986" height="486" alt="Screenshot6" src="https://github.com/user-attachments/assets/b31d0e22-cc4e-4f85-9a09-b170ec1f6e4b" />  
@@ -127,15 +127,15 @@ At this point, the following screen will open -
 These files will be automatically saved in the "Downloads" folder of the computer.  
 
 
----------- This section (8.) is Sharona's choice, if and how to write it. For now i just edited him according to my "idea"------------------------------ 
+---------- This section (8.) is Sharona's choice, if and how to write it. For now i just edited him according to my "idea"------------------------------   
 
-8. The two downloaded files should be sent to Sharona's email : stlevy………..ac.il (?)
-and include the following:
-School name
-Date
-Teacher's full name
-And the number of students who participated in the simulation
-*Student's experience
+8. The two downloaded files should be sent to Sharona's email : stlevy………..ac.il (?)  
+and include the following:  
+School name  
+Date  
+Teacher's full name  
+And the number of students who participated in the simulation  
+*Student's experience  
 
 
 
