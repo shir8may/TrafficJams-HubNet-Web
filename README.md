@@ -195,7 +195,7 @@ And the number of students who participated in the simulation
 
 At this point the screen will be frozen until the moment the teacher starts the simulation.  
 After she/he does this, it will be possible to:    
-• increase speed by pressing the "speed up" button or by pressing the "I" key on the keyboard  
-• decrease speed by pressing the "speed down" button or by pressing the "K" key on the keyboard  
-• move to the right lane by pressing the "right" button or by pressing the "R" key on the keyboard  
-• move to the left lane by pressing the "left" button or by pressing the "L" key on the keyboard  
+• increase speed by pressing the "**speed up**" button or by pressing the "**I**" key on the keyboard  
+• decrease speed by pressing the "**speed down**" button or by pressing the "**K**" key on the keyboard  
+• move to the right lane by pressing the "**right**" button or by pressing the "**R**" key on the keyboard  
+• move to the left lane by pressing the "**left**" button or by pressing the "**L**" key on the keyboard  
