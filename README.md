@@ -42,7 +42,6 @@ First, download the file named "TrafficJams_HubNet_Web.hnw.json" :
 1. Click on the file name –"TrafficJams_HubNet_Web.hnw.json"
 2. On the right side of the screen, click on the next icon (when you hover it – you will see "Download raw file")  <br>
 <img width="70" height="77" alt="download" src="https://github.com/user-attachments/assets/ecccc5ca-8e52-45a9-ab0d-6a6dc991a867" />
-<br>
 3. Pay attention to where you save the file
 
 
@@ -148,7 +147,7 @@ And the number of students who participated in the simulation
 
 
 <br>
-#### **Instructions for the student-**
+#### Instructions for the student-
 
 1. Open a Google Chrome or Google Edge or any other browser tab and copy the link that the teacher sent. A page will open with this small window - Click ""ביטול  
 
