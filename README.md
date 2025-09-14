@@ -6,7 +6,7 @@ This project is designed to help people explore and understand how individual dr
 
 - 	The purpose of the simulation  
 -	  Who it is intended for  
--	   Duration of the activity  
+-	   Duration of the actizvity  
 -	   How to operate it  
 -	   How it contributes to our daily lives  
 
