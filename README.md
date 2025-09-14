@@ -70,6 +70,7 @@ At this point, the following screen will open -
 <img width="1268" height="578" alt="Screenshot2" src="https://github.com/user-attachments/assets/fa5635df-883f-45b3-96bb-be952b09442a" />  
 <br>
 <br>
+<br>
 
 
 ## How to setup and start the simulation:
@@ -113,9 +114,12 @@ At this point, the following screen will open -
 
 
 6. To end the simulation, click the same "Go"  button again -> which will cause the screen to stop and the simulation to end.
+   
 7. In order to save and download the data files saved during the simulation click on the two buttons on the bottom left -  
 - Click on "Save Init CSV" 
-- Click on "Save Run CSV"  
+- Click on "Save Run CSV"
+These files will be automatically saved in the "Downloads" folder of the computer.  
+  
 
 <br>
 <img width="986" height="486" alt="Screenshot6" src="https://github.com/user-attachments/assets/b31d0e22-cc4e-4f85-9a09-b170ec1f6e4b" />  
@@ -125,7 +129,6 @@ At this point, the following screen will open -
 
 
 
-These files will be automatically saved in the "Downloads" folder of the computer.  
 
 
 ---------- This section (8.) is Sharona's choice, if and how to write it. For now i just edited him according to my "idea"------------------------------   
@@ -181,6 +184,8 @@ And the number of students who participated in the simulation
 <img width="1270" height="587" alt="Screenshot10" src="https://github.com/user-attachments/assets/30405d9f-c0dc-47bf-846c-0f6d193fdf4e" />  
 <br>
 <br>
+<br>
+
 
 
 
