@@ -13,13 +13,14 @@ This project is designed to help people explore and understand how individual dr
 
 ##  Purpose of the Simulation
 In the simulation:
-•	Each participant controls a single car through a client interface, while a teacher oversees the simulation.
-•	Students experiment with different driving strategies in a congested road environment, comparing results such as average vehicle speed and traffic stability.
+•	Each participant controls a single car through a client interface, while a teacher oversees the simulation.  
+•	Students experiment with different driving strategies in a congested road environment, comparing results such as average vehicle speed and traffic stability.  
+
 Through hands-on play and discussion, participants discover important insights:
-•	Traffic often behaves like a wave.
-•	A single driver braking suddenly can create phantom traffic jams.
-•	Maintaining a steady distance and reducing unnecessary lane changes improves flow.
-•	Safe and rational driving not only prevents accidents, but also results in faster travel overall.
+•	Traffic often behaves like a wave.  
+•	A single driver braking suddenly can create phantom traffic jams.  
+•	Maintaining a steady distance and reducing unnecessary lane changes improves flow.  
+•	Safe and rational driving not only prevents accidents, but also results in faster travel overall.  
 
 ##  Who it is intended for
 
