@@ -12,7 +12,7 @@ This project is designed to help people explore and understand how individual dr
 
 
 ##  Purpose of the Simulation
-In the simulation:
+In the simulation:  
 •	Each participant controls a single car through a client interface, while a teacher oversees the simulation.  
 •	Students experiment with different driving strategies in a congested road environment, comparing results such as average vehicle speed and traffic stability.  
 
