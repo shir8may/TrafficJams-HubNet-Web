@@ -4,12 +4,13 @@
 ##  Speeding up Traffic Jams: A Participatory Simulation for Learning how to Drive in Congested Conditions
 This project is designed to help people explore and understand how individual driving behaviors affect overall traffic flow. This document provides a clear overview: it explains the purpose of the simulation, who it is intended for, who participates in it, how long it typically lasts, how to operate it, and how it can contribute to our daily lives. Using the results and data obtained from the simulation, participants and educators can draw meaningful conclusions and lessons that impact real-world driving habits and help us all drive more safely and efficiently.
 
-•	  The purpose of the simulation  
-•	  Technical information  
-•	   How to operate it  
-•	   How it contributes to our daily lives
+•	 The purpose of the simulation  
+•	 Technical information  
+•	 How to operate it  
+•	 How it contributes to our daily lives
 
-##  Purpose of the Simulation
+##  Purpose of the Simulation  
+The purpose of the simulation is to teach safe and efficient driving strategies in an engaging, experiential way, while highlighting the social importance of rational driving in reducing congestion, pollution, and frustration.  
 In the simulation:  
 •	Each participant controls a single car through a client interface, while a teacher oversees the simulation.  
 •	Students experiment with different driving strategies in a congested road environment, comparing results such as average vehicle speed and traffic stability.  
@@ -20,7 +21,6 @@ Through hands-on play and discussion, participants discover important insights:
 •	Maintaining a steady distance and reducing unnecessary lane changes improves flow.  
 •	Safe and rational driving not only prevents accidents, but also results in faster travel overall.  
 
-The purpose of the simulation is to teach safe and efficient driving strategies in an engaging, experiential way, while highlighting the social importance of rational driving in reducing congestion, pollution, and frustration.
 
 ##  Technical information    
 •	The simulation is intended for 11th grade students.    
@@ -31,7 +31,7 @@ By experimenting with the simulation, participants gain a deeper understanding o
 
 
 ##  How to operate it
-####Instructions for the teacher-
+#### Instructions for the teacher-
 First, download the file named "TrafficJams_HubNet_Web.hnw.json" :
 1. Click on the file name –"TrafficJams_HubNet_Web.hnw.json"
 2. On the right side of the screen, click on the icon ***this*** (when you hover over it – you will see  "Download raw file")
