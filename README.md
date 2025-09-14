@@ -164,12 +164,12 @@ And the number of students who participated in the simulation
 2. Now the screen you will see is this-  
 
 <br>
-<img width="1916" height="873" alt="image" src="https://github.com/user-attachments/assets/1d0e2943-945a-4fbe-bc86-dc56b80f57d0" />
+<img width="1917" height="927" alt="Screenshot8" src="https://github.com/user-attachments/assets/481894ea-2a47-4b3b-bb88-89e33e2cd829" />
 <br>
 <br>
 
 
-3. Click on the name of the simulation- the name of the school + the date of that day and a line will appear in orange as follows-
+3. Click on the name of the simulation- the name of the school name date(in that case "SchoolName8.8.25") =  the orange line.
 
 4. Fill in the "Username" field with your name + fill in the "Password" field with the password that the teacher set + select the "Student" option in "Role", as follows-  
 
