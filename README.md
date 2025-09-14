@@ -187,7 +187,6 @@ And the number of students who participated in the simulation
 <br>
 <br>
 <br>
-<br>
 
 
 
