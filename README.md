@@ -1,5 +1,7 @@
+# TrafficJams-HubNet-Web
 
-#  Speeding up Traffic Jams: A Participatory Simulation for Learning how to Drive in Congested Conditions
+
+##  Speeding up Traffic Jams: A Participatory Simulation for Learning how to Drive in Congested Conditions
 This project is designed to help people explore and understand how individual driving behaviors affect overall traffic flow. This document provides a clear overview: it explains the purpose of the simulation, who it is intended for, who participates in it, how long it typically lasts, how to operate it, and how it can contribute to our daily lives. Using the results and data obtained from the simulation, participants and educators can draw meaningful conclusions and lessons that impact real-world driving habits and help us all drive more safely and efficiently.
 
 •	  The purpose of the simulation  
@@ -41,7 +43,7 @@ After downloading, follow these instructions:
 3. Navigate to the location where the previously downloaded file is saved (named "TrafficJams_HubNet_Web.hnw.json") and double-click on it (or click on it + the "Open" button)
 4. At the bottom of the page are two fields "Session Name" and "Password".
 - In the "Session Name" field, write your school name + date, as follows: SchoolName 8.8.25
-- In the "Password" field, choose a password of your choice, such as 1234 or 0000, etc.
+- In the "Password" field, choose a password of your choice, such as 1234 or 0000, etc.  
 
 
 <img width="1271" height="579" alt="Screenshot1" src="https://github.com/user-attachments/assets/5a76a0c9-0f5c-403f-9eac-f2fec48b8cc5" />
@@ -50,7 +52,7 @@ After downloading, follow these instructions:
 
 
 5. Click the blue button - "Launch"
-At this point, the following screen will open -
+At this point, the following screen will open -  
 
 
 
@@ -62,7 +64,7 @@ At this point, the following screen will open -
 
 ### To setup and start the simulation:
 #### Instructions for the teacher-
-1. Click the blue button on the top left called "Copy invite link"  (after you click on it, the caption will change to "Copied!") - 
+1. Click the blue button on the top left called "Copy invite link"  (after you click on it, the caption will change to "Copied!") -   
 
 
 
@@ -76,10 +78,10 @@ At this point, the following screen will open -
  
 2. Send the copied link in a shared group with all the students (WhatsApp, class forum, etc), the link is already copied, so just press Ctrl + V or right-click with the mouse + "paste"
 
-3. Adjust the buttons according to the following instructions:
+3. Adjust the buttons according to the following instructions:  
 ---------------This section should follow the instructions of Prof. Sharona T. Levy---------------
 
-4. Click the upper "Setup" blue button ( the one inside the red rectangle), and the screen will now look like this-
+4. Click the upper "Setup" blue button ( the one inside the red rectangle), and the screen will now look like this-  
 
 
 <img width="1551" height="707" alt="Screenshot4" src="https://github.com/user-attachments/assets/71c6e4cb-6c2b-41bf-b620-b4e7f4b4aec1" />
@@ -89,7 +91,7 @@ At this point, the following screen will open -
 
 
 
-5. After all the students have joined -> click the "Go" button, and the simulation will start running - 
+5. After all the students have joined -> click the "Go" button, and the simulation will start running -  
 
 
 <img width="208" height="106" alt="Screenshot5" src="https://github.com/user-attachments/assets/f9fddd5a-acba-4f29-af57-ec01ffe1a08f" />
@@ -100,7 +102,7 @@ At this point, the following screen will open -
 
 
 6. To end the simulation, click the same "Go"  button again -> which will cause the screen to stop and the simulation to end.
-7. In order to save and download the data files saved during the simulation click on the two buttons on the bottom left - 1. Click on "Save Init CSV" 2. Click on "Save Run CSV"-
+7. In order to save and download the data files saved during the simulation click on the two buttons on the bottom left - 1. Click on "Save Init CSV" 2. Click on "Save Run CSV"-  
 
 
 <img width="986" height="486" alt="Screenshot6" src="https://github.com/user-attachments/assets/b31d0e22-cc4e-4f85-9a09-b170ec1f6e4b" />
@@ -110,9 +112,10 @@ At this point, the following screen will open -
 
 
 
-These files will be automatically saved in the "Downloads" folder of the computer.
+These files will be automatically saved in the "Downloads" folder of the computer.  
 
------------------- This section (8.) is Sharona's choice, if and how to write it. For now i just edited him according to my "idea"------------------------------
+
+------------------ This section (8.) is Sharona's choice, if and how to write it. For now i just edited him according to my "idea"------------------------------  
 8. The two downloaded files should be sent to Sharona's email : stlevy………..ac.il (?)
 and include the following:
 School name
@@ -128,7 +131,7 @@ And the number of students who participated in the simulation
 
 #### Instructions for the student-
 
-1. Open a Google Chrome or Google Edge or any other browser tab and copy the link that the teacher sent. A page will open with this small window - Click ""ביטול
+1. Open a Google Chrome or Google Edge or any other browser tab and copy the link that the teacher sent. A page will open with this small window - Click ""ביטול  
 
    
 
@@ -139,16 +142,16 @@ And the number of students who participated in the simulation
 
 
 
-2. Now the screen you will see is this-
+2. Now the screen you will see is this-  
 
 
--------------------------------- picture 8 ------------------------------------
+-------------------------------- picture 8 ------------------------------------  
 
 
 
 3. Click on the name of the simulation- the name of the school + the date of that day and a line will appear in orange as follows-
 
-4. Fill in the "Username" field with your name + fill in the "Password" field with the password that the teacher set + select the "Student" option in "Role", as follows-
+4. Fill in the "Username" field with your name + fill in the "Password" field with the password that the teacher set + select the "Student" option in "Role", as follows-  
 
 
 <img width="1327" height="232" alt="Screenshot9" src="https://github.com/user-attachments/assets/a1ad54d4-3794-4176-9ca7-f45683fa8aa7" />
@@ -158,7 +161,7 @@ And the number of students who participated in the simulation
 
 
 
-5. Click on the green button - "Join", then the following screen will appear-
+5. Click on the green button - "Join", then the following screen will appear-  
 
 <img width="1270" height="587" alt="Screenshot10" src="https://github.com/user-attachments/assets/30405d9f-c0dc-47bf-846c-0f6d193fdf4e" />
 
@@ -167,9 +170,9 @@ And the number of students who participated in the simulation
 
 
 
-At this point the screen will be frozen until the moment the teacher starts the simulation.
-After she/he does this, it will be possible to
-increase speed by pressing the "speed up" button or by pressing the "I" key on the keyboard
-decrease speed by pressing the "speed down" button or by pressing the "K" key on the keyboard
-move to the right lane by pressing the "right" button or by pressing the "R" key on the keyboard
-move to the left lane by pressing the "left" button or by pressing the "L" key on the keyboard
+At this point the screen will be frozen until the moment the teacher starts the simulation.  
+After she/he does this, it will be possible to:    
+increase speed by pressing the "speed up" button or by pressing the "I" key on the keyboard  
+decrease speed by pressing the "speed down" button or by pressing the "K" key on the keyboard  
+move to the right lane by pressing the "right" button or by pressing the "R" key on the keyboard  
+move to the left lane by pressing the "left" button or by pressing the "L" key on the keyboard  
