@@ -10,7 +10,8 @@ This project is designed to help people explore and understand how individual dr
 •	 How it contributes to our daily lives
 
 ##  Purpose of the Simulation  
-The purpose of the simulation is to teach safe and efficient driving strategies in an engaging, experiential way, while highlighting the social importance of rational driving in reducing congestion, pollution, and frustration.  
+The purpose of the simulation is to teach safe and efficient driving strategies in an engaging, experiential way, while highlighting the social importance of rational driving in reducing congestion, pollution, and frustration.
+
 In the simulation:  
 •	Each participant controls a single car through a client interface, while a teacher oversees the simulation.  
 •	Students experiment with different driving strategies in a congested road environment, comparing results such as average vehicle speed and traffic stability.  
