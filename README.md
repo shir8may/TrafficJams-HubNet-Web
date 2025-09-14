@@ -1,4 +1,5 @@
 # TrafficJams-HubNet-Web
+NetLogo/HubNet simulation for participatory learning about traffic jams, converted to HubNet Web  
 
 
 ##  Speeding up Traffic Jams: A Participatory Simulation for Learning how to Drive in Congested Conditions
