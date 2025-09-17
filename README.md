@@ -52,7 +52,7 @@ First, download the file named "TrafficJams_HubNet_Web.hnw.json" :
 
 ## How to open the simulation
 After downloading, follow these instructions:
-1. Open the following link in a new tab (right click on the mouse +click "open in a new tab") - https://hubnetweb.org/host 
+1. Open the following link in a new tab (right click on the mouse +click "open link in a new tab") - https://hubnetweb.org/host 
 2. Click on "Your Own Model" button and then on "יש לבחור קבצים"
 3. Navigate to the location where the previously downloaded file is saved (named "TrafficJams_HubNet_Web.hnw.json") and double-click on it (or click on it + the "Open" button)
 4. At the bottom of the page are two fields "Session Name" and "Password".
